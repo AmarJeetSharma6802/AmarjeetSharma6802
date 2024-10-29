@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **amarsharma6802@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/amarjeet-sharma-498854333](www.linkedin.com/in/amarjeet-sharma-498854333)
 
 - ⚡ Fun fact **I guess I'm a novice developer**
 

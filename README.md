@@ -18,6 +18,7 @@
 - **GitHub**: [AmarJeetSharma6802](https://github.com/AmarJeetSharma6802)
 - **LinkedIn**: [Amarjeet Sharma](https://linkedin.com/in/amarjeet-sharma)
 - **Instagram**: [amarfullstack](https://instagram.com/amarfullstack)
+- **Portfolio**: [My portfolio](https://portfolio-beta-dusky-34.vercel.app/)
 
 ### 💬 **Ask Me About**:
 - HTML, CSS, JavaScript, TypeScript, GSAP, React, Node.js, Express, MongoDB

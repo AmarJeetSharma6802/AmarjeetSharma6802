@@ -60,7 +60,7 @@
   <a href="mailto:amarsharma6802@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/amarjeet-sharma-full-stack">
+  <a href="https://www.linkedin.com/in/amarjeet-sharma-full-stack/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-beta-dusky-34.vercel.app/">

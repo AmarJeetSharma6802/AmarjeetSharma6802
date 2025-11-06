@@ -47,13 +47,14 @@ Building Modern Web Experiences</h3>
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmarJeetSharma6802&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarJeetSharma6802&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmarJeetSharma6802&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=AmarJeetSharma6802&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarJeetSharma6802&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarJeetSharma6802&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 

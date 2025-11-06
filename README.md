@@ -3,7 +3,7 @@
 Building Modern Web Experiences</h3>
 
 <p align="center">
-<img alt="coding" width="50%" src="https://www.google.com/search?sca_esv=a7a7f7107bf5a5bb&rlz=1C1UEAD_enIN1167IN1167&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQFrCfZ7DsBw9Vv9Qkv56j2AP7ANhp9ddfujX-TCnvnRggsHKO2v2aKFNHSGLiTbBMeVE9BDmRnpA0vodpMQ5mLS0ZYVkmUytnEHTw0agHoYeUknGscL157H3Nd3H_MIi8xnEF60A&q=coding+gif&sa=X&sqi=2&ved=2ahUKEwiD2K_x5dyQAxX6V3ADHUGbEHUQtKgLegQIEhAB&biw=1536&bih=695&dpr=1.25#vhid=1r5mGAKfFOmn0M&vssid=mosaic" >
+<img alt="coding" width="50%" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" >
 </p>
 
 ---

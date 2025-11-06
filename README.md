@@ -57,7 +57,7 @@ Building Modern Web Experiences</h3>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=radical&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=radical&no-frame=true&margin-w=10&row=1&column=4" />
 </p>
 
 

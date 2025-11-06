@@ -48,7 +48,8 @@ Building Modern Web Experiences</h3>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmarJeetSharma6802&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=AmarJeetSharma6802&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=AmarJeetSharma6802&theme=radical&hide_border=true" />
+
 </p>
 
 <p align="center">

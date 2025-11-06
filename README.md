@@ -60,7 +60,6 @@ Building Modern Web Experiences</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=radical&no-frame=true&margin-w=10&row=1&column=4" />
 </p>
 
-
 ---
 
 ## 📫 How to Reach Me

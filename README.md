@@ -55,6 +55,11 @@ Building Modern Web Experiences</h3>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarJeetSharma6802&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=radical&no-frame=true&margin-w=4" />
+</p>
+
 
 ---
 

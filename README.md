@@ -1,92 +1,78 @@
-<h1 align="center">Hi 👋, I'm Amarjeet Sharma</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Amarjeet%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20MERN%20Expert&descAlignY=60&descFontSize=20" width="100%" />
 
-<h3 align="center">
-Full-Stack Developer | React • Next.js • Node.js • Docker
-</h3>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&width=435&lines=Building+Scalable+Solutions;MERN+Stack+Specialist;Next.js+%2B+Docker+Expert;Problem+Solver+at+Heart" alt="Typing SVG" />
+  </h3>
+
+  <p>
+    <a href="https://portfolio-beta-dusky-34.vercel.app/" target="_blank"><b>🌐 View Live Portfolio</b></a> • 
+    <a href="https://www.linkedin.com/in/amarjeet-sharma-full-stack/" target="_blank"><b>🔗 LinkedIn Connect</b></a>
+  </p>
+</div>
+
+---
+
+## ⚡ About Me
+A dedicated **Full-Stack Engineer** with a passion for building robust web architectures. My expertise lies in creating seamless user experiences using **React/Next.js** and scaling backend systems with **Node.js & Docker**. I thrive on complex logic and pixel-perfect UI.
+
+- 🔭 **Expertise:** Scalable Web Apps, Database Architecture, Performance Optimization.
+- 🌱 **Learning:** Advanced System Design & Kubernetes.
+- 💬 **Ask me about:** Why MERN is powerful and how to optimize GSAP animations.
+- ⚡ **Fun Fact:** I believe in "Think twice, Code once."
+
+---
+
+## 🛠️ Technology Stack & Ecosystem
+
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Database/Cloud** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) |
+| **Creative UI** | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) ![Clarity](https://img.shields.io/badge/-MS_Clarity-0078D4?style=flat&logo=microsoft&logoColor=white) |
+
+---
+
+## 🏆 Featured Architectures
+
+### 🏘️ [Real Estate Hub](https://portfolio-beta-dusky-34.vercel.app/)
+*An end-to-end property marketplace.*
+- **Impact:** Solved complex state management for property filtering.
+- **Tech:** React, Tailwind, Firebase, Redux Toolkit.
+
+### 💎 [Clikcrave SaaS](https://clikcrave.com)
+*Performance-first Digital Marketing Platform.*
+- **Impact:** Achieved 95+ Lighthouse scores and deep user analytics integration.
+- **Tech:** Next.js 14, Node.js, MS Clarity.
+
+---
+
+## 📊 Developer Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmarJeetSharma6802&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmarJeetSharma6802&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarJeetSharma6802&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- Building **scalable full-stack web applications**
-- Experience with **client production projects**
-- Focused on **performance, UI/UX and clean architecture**
-- Currently exploring **Cloud + AI powered systems**
-
----
-
-## 🌐 Portfolio & Contact
-
+## 🔥 Contribution & Activity
 <p align="center">
-  <a href="https://portfolio-beta-dusky-34.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://www.linkedin.com/in/amarjeet-sharma-full-stack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amarjeet_Sharma-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:amarsharma6802@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=tokyonight&no-frame=true&column=4" width="100%" />
 </p>
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/AmarJeetSharma6802/AmarJeetSharma6802/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmarJeetSharma6802&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarJeetSharma6802&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarJeetSharma6802&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Awards
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmarJeetSharma6802&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- **ClikCrave** – Digital Marketing Platform  
-- **Pal Engineering** – Industrial Product Platform (In Progress)
-
----
-
-<p align="center">
-<i>Open for Full-Stack roles • Freelance • International Opportunities</i>
-</p>
+<div align="center">
+  <p><i>"Software is a great combination between artistry and engineering."</i></p>
+  <a href="mailto:amarsharma6802@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail" /></a>
+</div>
